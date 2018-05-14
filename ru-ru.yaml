@@ -1,0 +1,186 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: Пожертвовано
+charity.more-info: Более о IoTeX Благотворительной Программе
+charity.question: Как я узнал о IoTeX? Почему я заинтересован в нём?
+charity.share-message: Поделись своими добрыми поступками!
+charity.to: К
+charity.tweet.summary.description: >-
+  Мы ценим твоё Большое Сердце! Помимо фиксированного благодарственного подарка в количестве 16,000 поинтов
+  , мы опубликуем ваши добрые поступки на веб-сайте IoTeX!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: Теперь ты на Доске Почёта IoTeX!
+claim.btn: ПОЛУЧИТЬ СВОИ ПОИТНЫ
+contact.btn: СВЯЗАТЬСЯ С НАМИ
+contact.desc: Эксперты IoTeX готовы ответить на ваши вопросы через support@iotex.io
+contact.title: ОСТАВАЙСЯ НА СВЯЗИ
+ethFoundation: Фонд Ethereum 
+hall-of-fame.badge-section.title: 1-ая Благотворительная программа IoTeX  — Фонд ETH 
+hall-of-fame.badge-section.unicorn.desc: >
+  За последние четыре года Ethereum произвел революцию в мире блокчейна и 
+  сделал слово "блокчейн" самой модной фразой. Как лидер отрасли, Ethereum 
+  <a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
+  мотивирует исследователей и разработчиков работать на различных фронтах для поддержки 
+  всей блокчейн экосистемы. IoTeX твёрдо верит, что мы можем продвигать всю отрасль
+  путём тщательных исследований и сотрудничества. Нам нужны таланты и самые яркие умы,
+  чтобы произвести мировой фурор. Маленький, но мощный способ помочь - это пожертвовать ETH
+  в фонд Ethereum, помогающий финансировать исследования блокчейн.
+  
+
+
+  Для участия, пожалуйста, присоединяйтесь к официальному <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> и следите за закрепленными сообщениями.
+
+
+  Больше информации в <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  1st Charity Program Update</a>.
+hall-of-fame.search.label: Поиск по hashid или Предпочтительно Отображаемому Имени
+hall-of-fame.thank-you.message: >
+  Краудсорсинг как способ финансирования на конкретную благотворительность не нова,
+  но IoTeX делает это через "смарт контракты" и перенаправляет криптовалютный хайп на
+  благотворительные цели. В течение следующих нескольких месяцев, в рамках программы
+  Вознаграждения Сообщества, IoTeX продолжит выбор нескольких благотворительных программ,
+  которые согласуются с миссией IoTeX "Подключение физического мира, блок за блоком" как
+  часть программы поощрения сообщества IoTeX.
+  
+
+
+  IoTeX верит в совместный рост вместе с сообществом и в подключение физического мира 
+  блок за блоком. Это очень амбициозная цель, которую можно достигнуть только с сильной 
+  командой и поддержкой сообщества. Чтобы продвинуть границу в развитии блокчейн 
+  экосистемы вместе с сообществом, IoTeX действительно надеется, что сообщество сможет 
+  понять настоящие намерения команды и поможет в содействии делу.  
+hall-of-fame.title: Благотворительность IoTeX 
+home.about.inno.0.desc.keep: >-
+  Поддержка миллионов узлов с мгновенной завершаемостью и низкой латентностью, экологически приветливая,
+  предназначенная для IoT
+home.about.inno.0.title.keep: Быстрый Консенсус
+home.about.inno.1.desc.keep: >-
+  Как Plasma, вытаскивает структуру от корневой цепи,чтобы еще больше повысить конфиденциальность, 
+  масштабируемость и интероперабельность; Инновационная перекрестная передача объёма
+  и данных
+home.about.inno.1.title.keep: Блокчейн в Блокчейнах
+home.about.inno.2.desc.keep: >-
+  Максимизация конфиденциальности путём инновационных криптографических схем, таких как легковесные скрытые адреса
+  и постоянная кольцевая подпись.
+home.about.inno.2.title.keep: Встроенные Методы сохранения Конфиденциальности
+home.about.inno.3.desc.keep: 'Децентрализованная автономная организация для IoT, код - закон для мира роботов'
+home.about.inno.3.title.keep: Координация Автономного Устройства
+home.about.sol.desc1: >-
+  Несмотря на стремительную эволюцию, IoT еще далек от массового принятия и
+  не хватает «приложений-убийц», которые привлекут новых пользователей к экосистеме из-за  
+  таких проблем, как низкая масштабируемость, высокая операционная стоимость, проблемы конфиденциальности и отсутствие
+  функциональных значений.
+home.about.sol.desc2: >-
+  IoTeX решает эту проблему, введя экономию токена в пространства IoT, так как мы твердо убеждены в том, 
+  что криптовалютные стимулы, а также усилия сообщества - это две ключевые силы для продвижения инноваций в пространстве IoT. 
+home.decentralized-protocol: Децентрализованная сеть для Интернета Вещей
+home.dustin.desc.keep: >-
+  Доктор наук по безопасности данных в USC. Инженер-программист в Intel. 12-ти
+  летний опыт в распределенных системах, защите данных, аппаратном видео
+  ускорении, потоковом сетевом видео, графическом драйвере. Криптограф и блокчейн
+  энтузиаст.
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: Блокчейн Инженер
+home.fan.desc.keep: >-
+  Ранее работал в качестве основополагающего партнера Sequoia Capital China и
+  Директора DFJ ePlanet Ventures. Рейтинг Forbes: один из ведущих венчурных
+  предприятий в ежегодном списке Мидаса в Китае.
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
+  Член IEEE. Профессор Университета Ватерлоо, Канада. Лучший ученый в области
+  криптографии и легкой криптографии, специалист сети и безопасности
+  радиочастотной идентификации (RFID)
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: null
+home.jack.desc.keep: >-
+  Соучредитель Управляющего Партнера HCM Capital, Foxconn Technology Group.
+  Соучредитель и исполнительный директор Chained Finance Ltd., основатель и исполнительный директор
+  Директор FnConn и и главный директор Abra.
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: null
+home.jing.desc.keep: >-
+  Основополагающий партнер Sparkland Capital, ориентированного на Frontier Tech, возглавляет 40+
+  инвестиций и инноваций в блокчейн, безопасности и IoT. Главный директор
+  многочисленных компаний. Обширный опыт в стартапах, инвестицях и строительстве
+  экосистем.
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: Соучредитель
+home.larry.desc.keep: >-
+  Консультант по вопросам в Oliver Wyman, специализирующийся на цифровых операциях. 
+  Две степени бакалавра в Финансах и Экономике, юниор в Visual Arts & Design от MIT.
+  Блокчейн и IoT энтузиаст.
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: Расширение и сообщество
+home.monika.desc.keep: >-
+  Специалист по технологическим коммуникациям с большим опытом в области кибербезопасности,
+  конфиденциальности, сетях и новых технологиях.
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: Коммуникация
+home.paddy.desc.keep: >-
+  Старший инженер-программист Microsoft, специализирующийся на распределенных системах.
+  Активный вкладчик в проекты с открытым исходным кодом. Мастер наук в Компьютерных науках
+  в Йельском университете.
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: Распределенные Системы
+home.powered-by: Powered by a Privacy-Centric Blockchain
+home.qevan.desc.keep: >-
+  Доктор наук в области машинного обучения и компьютерного видения в Национальном университете
+  Сингапура. Инженер-программист и научный сотрудник Facebook. Растущий
+  Hacker. Начинающий инвестор и советник. 20+ публикаций / патентов.
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: Соучредитель
+home.raullen.desc.keep: >-
+  Доктор наук и научный сотрудник в области криптографии в UWaterloo. Руководитель Crypto R & D
+  в Uber, инженер по безопасности в Google. 8-летний опыт работы в криптографии
+  и блокчейн.
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: Соучредитель
+home.section.advisors: IoTeX.Советники
+home.section.arch: IoTeX.Архитектура
+home.section.innovations: IoTeX.Инновации
+home.section.investors: IoTeX.Инвесторы
+home.section.partners: IoTeX.СтратегическиеПартнёры
+home.section.roadmap: IoTeX.ДорожнаяКарта
+home.section.team: IoTeX.Команда
+home.section.teamfrom: IoTeX.Команда.ЗаднийПлан
+home.section.useceses: IoTeX.СлучаиИспользования
+home.site.description: >-
+  A Decentralized Network for Internet of Things (IoT), Powered by a
+  Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
+  World, Block by Block.
+home.slogan: Подключение Физического Мира Блок за Блоком
+home.xinxin.desc.keep: >-
+  Доктор наук в области криптографии в UWaterloo. Старший инженер-исследователь в Bosch Research. 14
+  лет исследований и опыта в области информационной безопасности и криптографии.
+  Более 40 публикаций / патентов.
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep: Начальник отдела криптографии
+home.zhefeng.desc.keep: >-
+  Магистр компьютерных наук Калифорнийского университета в Сан-Диего и бакалавр
+  по математике и информатике в Университете Висконсин-Мэдисон.
+  Технолог Блокчейн, машинное обучение и энтузиаст Internet of Things.
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: Блокчейн инженер
+stonevan.twitter: >-
+  Я просто получил 100 бесплатных поинтов от IoTeX, отпразновав их первое превью тестнета. 
+  @iotex_io Приходи и забери свои поинты!
+subscribe.btn: ПОДПИСЫВАЙСЯ
+subscribe.desc: С нашими последними прогрессом и событиями.
+subscribe.title: ОСТАВАТЬСЯ В КУРСЕ
+testnet-preview.home-title: Testnet Превью (StoneVan) будет выпущено на
+testnet-preview.released-event-title: Превью нашего Тестнета уже выпущено!
+testnet-preview.released-title: Превью нашего Тестнета уже выпущено на
+topbar.blog: БЛОГ
+topbar.careers: КАРЬЕРА
+topbar.charity: БЛАГОТВОРИТЕЛЬНОСТЬ
+topbar.faq: FAQ
+topbar.home: ДОМОЙ
+topbar.white-paper: БЕЛАЯ БУМАГА
+whitepaper.button.next: ДАЛЕЕ
+whitepaper.button.previous: НАЗАД
